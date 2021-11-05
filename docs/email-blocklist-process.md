@@ -147,7 +147,7 @@ As part of the documentation steps, the assessment and justifications for blocki
 
 -   The specific items to be added to the internal blocklist.
 
--   The classification of the email, and justification for blocking.
+-   The classification of the email (i.e Spam, Phishing, the aforementioned email classifications), and justification for blocking.
 
 -   Summary outcomes from the impact assessment.
 
